@@ -1,13 +1,6 @@
 前情回顾
 
 
-aoeyuv
-
-
-
-xxxTomlllll
-
-
 2. mysql
 
    * 安装方法
